@@ -1,0 +1,14 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "D:\\CDAP_2023\\Reserach Web\\cdap141\\src\\app\\layout.js": [
+      "C:\\Users\\thxnura\\AppData\\Roaming\\npm\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\CDAP_2023\\Reserach Web\\cdap141\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\CDAP_2023\\Reserach Web\\cdap141\\src\\app\\page": [
+      "D:\\CDAP_2023\\Reserach Web\\cdap141\\src\\app\\globals.css",
+      "C:\\Users\\thxnura\\AppData\\Roaming\\npm\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}

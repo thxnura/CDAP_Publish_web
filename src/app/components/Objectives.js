@@ -10,7 +10,7 @@ function Objectives() {
             <div className='grid lg:grid-cols-2 gap-10 px-5 w-full'>
                 <div>
                     <Subobjectives 
-                        title="IDENTIFY AND PREVENT INTRUDERS"
+                        title="IDENTIFY AND PREVENT INTRUDERS djvfnkdfjvn"
                         description="The poultry Hub system can identify whether the unauthorized animals are there or not there is any kind of harmful animal related to the poultry farm will be detected and prevented according to suitable manner.. in order to do this we are taking sample animal data."  
                     />
                 </div>
